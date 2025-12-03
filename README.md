@@ -39,7 +39,7 @@ The circuit is built around the Seeed XIAO RP2040 microcontroller with:
 
 ## Case Design
 
-![LEOPAD Case Assembly](resources/case.png)
+![LEOPAD Case Assembly](resources/leoooopad.jpeg)
 
 
 ## Bill of Materials (BOM)
