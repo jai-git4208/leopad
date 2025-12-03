@@ -1,5 +1,6 @@
 # LEOPAD - The 8-Key Macropad
 
+![LEOPAD Overview](resources/leoooopad.jpeg)
 LEOPAD (Layout Enhancement & Optimization Pad or a cute cat :3 ) is an 8-key programmable designed specifically for developers and programmers. It streamlines your coding workflow with dedicated shortcuts for common programming tasks, Git operations, and system controls.
 
 ## Why LEOPAD?
