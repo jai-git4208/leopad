@@ -1,8 +1,9 @@
 # LEOPAD - The 8-Key Macropad
 
-![LEOPAD Overview](resources/leopad-overview.png)
+![LEOPAD Overview](resources/leoooopad.jpeg)
 
-LEOPAD (Layout Enhancement & Optimization Pad) is an 8-key programmable designed specifically for developers and programmers. It streamlines your coding workflow with dedicated shortcuts for common programming tasks, Git operations, and system controls.
+
+LEOPAD (Layout Enhancement & Optimization Pad or a cute cat :3 ) is an 8-key programmable designed specifically for developers and programmers. It streamlines your coding workflow with dedicated shortcuts for common programming tasks, Git operations, and system controls.
 
 ## Why LEOPAD?
 
@@ -38,7 +39,7 @@ The circuit is built around the Seeed XIAO RP2040 microcontroller with:
 
 ## Case Design
 
-![LEOPAD Case Assembly](resources/case.png)
+![LEOPAD Case Assembly](resources/leoooopad.jpeg)
 
 
 ## Bill of Materials (BOM)
